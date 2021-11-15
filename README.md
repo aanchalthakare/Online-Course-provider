@@ -1,1 +1,1 @@
-# Online-Course-provider
+# OnlineCourseprovider.github.io
